@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine learning & data science 
 - 💞️ I’m looking to collaborate on project team
 - 📫 How to reach me; via dm
-- 😄 Pronouns: Annie 
+- 😄 Pronouns: she
 - ⚡ Fun fact: 100%
 
 <!---
